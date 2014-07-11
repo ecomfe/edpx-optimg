@@ -1,0 +1,24 @@
+{
+  "name": "edpx-optimg",
+  "version": "0.0.1",
+  "description": "扫描项目中的图片，优化之~~~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "edp-core": "~1.0.12",
+    "async": "~0.9.0",
+    "etpl": "2.1.0-rc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecomfe/edpx-optimg.git"
+  },
+  "author": "leeight@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecomfe/edpx-optimg/issues"
+  },
+  "homepage": "https://github.com/ecomfe/edpx-optimg"
+}
