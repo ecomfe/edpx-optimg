@@ -1,6 +1,6 @@
 {
   "name": "edpx-optimg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "扫描项目中的图片，优化之~~~",
   "main": "index.js",
   "scripts": {

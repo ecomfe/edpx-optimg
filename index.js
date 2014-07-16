@@ -30,7 +30,7 @@ exports.start = function(args, opts) {
 
         var previewItems = [];
         items.forEach(function(item){
-            if (item.size === item.data.length) {
+            if (item.size <= item.data.length) {
                 return;
             }
 
